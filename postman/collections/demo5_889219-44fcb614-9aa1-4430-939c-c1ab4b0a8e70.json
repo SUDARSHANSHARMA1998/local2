@@ -1,0 +1,37 @@
+{
+	"type": "collection",
+	"name": "demo5",
+	"id": "889219-44fcb614-9aa1-4430-939c-c1ab4b0a8e70",
+	"_attributes": {
+		"flags": {
+			"id": "44fcb614-9aa1-4430-939c-c1ab4b0a8e70"
+		}
+	},
+	"isPending": false,
+	"isDeleting": false,
+	"_foldersOrder": [],
+	"_pendingFoldersOrder": [],
+	"_order": [],
+	"_pendingOrder": [],
+	"initialVariables": null,
+	"events": null,
+	"auth": null,
+	"protocolProfileBehavior": {},
+	"description": null,
+	"createdAt": "2022-08-11T15:38:49.000Z",
+	"isForked": false,
+	"isPublic": false,
+	"isEditable": true,
+	"isDeletable": true,
+	"isArchived": false,
+	"isFavorite": false,
+	"isShareable": true,
+	"userCanCreateMock": true,
+	"userCanCreateMonitor": true,
+	"owner": "889219",
+	"foldersOrder": [],
+	"order": [],
+	"folders": [],
+	"requests": [],
+	"variables": null
+}

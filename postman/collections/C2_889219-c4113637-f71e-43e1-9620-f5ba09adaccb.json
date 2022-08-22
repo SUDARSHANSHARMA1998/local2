@@ -1,0 +1,73 @@
+{
+	"type": "collection",
+	"name": "C2",
+	"id": "889219-c4113637-f71e-43e1-9620-f5ba09adaccb",
+	"_attributes": {
+		"flags": {
+			"id": "c4113637-f71e-43e1-9620-f5ba09adaccb"
+		}
+	},
+	"isPending": false,
+	"isDeleting": false,
+	"_foldersOrder": [],
+	"_pendingFoldersOrder": [],
+	"_order": [
+		"71eb9f9c-b022-4d60-a412-6fd21018b895"
+	],
+	"_pendingOrder": [],
+	"initialVariables": null,
+	"events": null,
+	"auth": null,
+	"protocolProfileBehavior": {},
+	"description": null,
+	"createdAt": "2022-08-16T15:01:44.000Z",
+	"isForked": false,
+	"isPublic": false,
+	"isEditable": true,
+	"isDeletable": true,
+	"isArchived": false,
+	"isFavorite": false,
+	"isShareable": true,
+	"userCanCreateMock": true,
+	"userCanCreateMonitor": true,
+	"owner": "889219",
+	"foldersOrder": [],
+	"order": [
+		"889219-71eb9f9c-b022-4d60-a412-6fd21018b895"
+	],
+	"folders": [],
+	"requests": [
+		{
+			"type": "request",
+			"id": "889219-71eb9f9c-b022-4d60-a412-6fd21018b895",
+			"name": "New Request",
+			"method": "GET",
+			"_folderId": "",
+			"_isDeleting": false,
+			"_collectionId": "c4113637-f71e-43e1-9620-f5ba09adaccb",
+			"isPending": false,
+			"url": "",
+			"_postman_local_files": [],
+			"description": null,
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"protocolProfileBehavior": null,
+			"createdAt": 1660662105000,
+			"updatedAt": 1660662208000,
+			"_responsesOrder": [],
+			"_pendingResponsesOrder": [],
+			"owner": "889219",
+			"folder": null,
+			"collection": "889219-c4113637-f71e-43e1-9620-f5ba09adaccb",
+			"responsesOrder": [],
+			"responses": []
+		}
+	],
+	"variables": null
+}
